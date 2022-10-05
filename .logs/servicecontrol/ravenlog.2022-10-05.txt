@@ -1,0 +1,20 @@
+2022-10-05 09:42:31.0546|10|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2022-10-05 09:47:31.1457|67|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2022-10-05 09:52:33.4046|187|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2022-10-05 09:57:33.4138|179|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2022-10-05 10:02:33.4240|121|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2022-10-05 10:08:03.2912|61|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2022-10-05 10:13:03.2689|55|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2022-10-05 11:33:42.0115|79|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2022-10-05 11:40:39.4219|1|Warn|Raven.Storage.Esent.TransactionalStorage|Could not recover database C:\Users\PetarPetrov\Downloads\particular test\.db\Data, will try opening it one last time. If that doesn't work, try using esentutl
+Microsoft.Isam.Esent.Interop.EsentDatabaseDirtyShutdownException: Database was not shutdown cleanly. Recovery must first be run to properly complete database operations for the previous shutdown.
+   bei Microsoft.Isam.Esent.Interop.Api.JetAttachDatabase(JET_SESID sesid, String database, AttachDatabaseGrbit grbit)
+   bei Raven.Storage.Esent.TransactionalStorage.EnsureDatabaseIsCreatedAndAttachToDatabase()
+2022-10-05 11:40:41.6614|78|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2022-10-05 11:45:41.5822|77|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2022-10-05 11:50:41.9595|94|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2022-10-05 11:55:42.5327|134|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2022-10-05 12:00:42.5403|103|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2022-10-05 12:05:42.5709|120|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2022-10-05 12:10:42.5778|75|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2022-10-05 12:15:42.5976|95|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
