@@ -8,29 +8,29 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ClientUI
 build_property.RootNamespace = ClientUI
-build_property.ProjectDir = C:\Users\PetarPetrov\Downloads\particular test\ClientUI\
+build_property.ProjectDir = C:\Users\PetarPetrov\Downloads\NService-Training\ClientUI\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\PetarPetrov\Downloads\particular test\ClientUI
+build_property.MSBuildProjectDirectory = C:\Users\PetarPetrov\Downloads\NService-Training\ClientUI
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/PetarPetrov/Downloads/particular test/ClientUI/Views/Home/Index.cshtml]
+[C:/Users/PetarPetrov/Downloads/NService-Training/ClientUI/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PetarPetrov/Downloads/particular test/ClientUI/Views/Home/PlaceOrder.cshtml]
+[C:/Users/PetarPetrov/Downloads/NService-Training/ClientUI/Views/Home/PlaceOrder.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQbGFjZU9yZGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PetarPetrov/Downloads/particular test/ClientUI/Views/Shared/_Layout.cshtml]
+[C:/Users/PetarPetrov/Downloads/NService-Training/ClientUI/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PetarPetrov/Downloads/particular test/ClientUI/Views/Shared/_LicenseForm.cshtml]
+[C:/Users/PetarPetrov/Downloads/NService-Training/ClientUI/Views/Shared/_LicenseForm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MaWNlbnNlRm9ybS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PetarPetrov/Downloads/particular test/ClientUI/Views/_ViewStart.cshtml]
+[C:/Users/PetarPetrov/Downloads/NService-Training/ClientUI/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

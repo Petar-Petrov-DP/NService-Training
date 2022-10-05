@@ -18,3 +18,22 @@ Microsoft.Isam.Esent.Interop.EsentDatabaseDirtyShutdownException: Database was n
 2022-10-05 12:05:42.5709|120|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
 2022-10-05 12:10:42.5778|75|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
 2022-10-05 12:15:42.5976|95|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2022-10-05 17:26:56.2839|1|Warn|Raven.Storage.Esent.TransactionalStorage|Could not recover database C:\Users\PetarPetrov\Downloads\NService-Training\.db\Data, will try opening it one last time. If that doesn't work, try using esentutl
+Microsoft.Isam.Esent.Interop.EsentDatabaseDirtyShutdownException: Database was not shutdown cleanly. Recovery must first be run to properly complete database operations for the previous shutdown.
+   bei Microsoft.Isam.Esent.Interop.Api.JetAttachDatabase(JET_SESID sesid, String database, AttachDatabaseGrbit grbit)
+   bei Raven.Storage.Esent.TransactionalStorage.EnsureDatabaseIsCreatedAndAttachToDatabase()
+2022-10-05 17:26:56.6829|1|Error|Raven.Database.Server.RavenDBOptions|Found errors in the system database while loading it for the first time.
+                                    This is recoverable error, since we will simply ingore transactions after the faulted one.
+Microsoft.Isam.Esent.Interop.EsentAttachedDatabaseMismatchException: An outstanding database attachment has been detected at the start or end of recovery, but database is missing or does not match attachment info
+   bei Microsoft.Isam.Esent.Interop.Api.JetInit(JET_INSTANCE& instance)
+   bei Raven.Storage.Esent.TransactionalStorage.EnsureDatabaseIsCreatedAndAttachToDatabase()
+   bei Raven.Storage.Esent.TransactionalStorage.Initialize(IUuidGenerator uuidGenerator, OrderedPartCollection`1 documentCodecs, Action`1 putResourceMarker, Action`2 onErrorAction)
+2022-10-05 17:26:56.6829|1|Error|Raven.Database.DocumentDatabase|Could not initialize transactional storage, not creating database
+System.InvalidOperationException: Could not open transactional storage: C:\Users\PetarPetrov\Downloads\NService-Training\.db\Data ---> Microsoft.Isam.Esent.Interop.EsentAttachedDatabaseMismatchException: An outstanding database attachment has been detected at the start or end of recovery, but database is missing or does not match attachment info
+   bei Microsoft.Isam.Esent.Interop.Api.JetInit(JET_INSTANCE& instance)
+   bei Raven.Storage.Esent.TransactionalStorage.EnsureDatabaseIsCreatedAndAttachToDatabase()
+   bei Raven.Storage.Esent.TransactionalStorage.Initialize(IUuidGenerator uuidGenerator, OrderedPartCollection`1 documentCodecs, Action`1 putResourceMarker, Action`2 onErrorAction)
+   --- Ende der internen Ausnahmestapelüberwachung ---
+   bei Raven.Storage.Esent.TransactionalStorage.Initialize(IUuidGenerator uuidGenerator, OrderedPartCollection`1 documentCodecs, Action`1 putResourceMarker, Action`2 onErrorAction)
+   bei Raven.Database.DocumentDatabase.DocumentDatabaseInitializer.InitializeTransactionalStorage(IUuidGenerator uuidGenerator, Action`2 onErrorAction)
+   bei Raven.Database.DocumentDatabase..ctor(InMemoryRavenConfiguration configuration, DocumentDatabase systemDatabase, TransportState recievedTransportState, Action`2 onError)

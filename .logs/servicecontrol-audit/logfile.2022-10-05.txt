@@ -102,3 +102,15 @@ Selected Transport Customization:   ServiceControl.Transports.Learning.LearningT
 2022-10-05 11:40:41.5049|27|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
 2022-10-05 11:40:41.5049|27|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
 2022-10-05 11:40:41.5049|27|Info|Microsoft.Hosting.Lifetime|Content root path: C:\Users\PetarPetrov\Downloads\particular test\Platform\bin\Debug\netcoreapp3.1\platform\servicecontrol\servicecontrol-audit-instance\
+2022-10-05 17:26:49.4600|1|Info|ServiceControl.Audit.Infrastructure.Settings.Settings|No settings found for audit log queue to import, default name will be used
+2022-10-05 17:26:50.7439|1|Info|ServiceControl.Audit.Infrastructure.Bootstrapper|
+-------------------------------------------------------------
+ServiceControl Audit Version:       4.20.2+Branch.release-4.20.Sha.1cc2e83546539c837c2ddcf3db868146535e7fdc
+Audit Retention Period:             10.00:00:00
+Forwarding Audit Messages:          False
+Database Size:                      8.39 MB
+Database Folder Size:               75.82 MB
+ServiceControl Logging Level:       Info
+RavenDB Logging Level:              Warn
+Selected Transport Customization:   ServiceControl.Transports.Learning.LearningTransportCustomization, ServiceControl.Transports.Learning
+-------------------------------------------------------------

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\Billing.csproj": {}
+    "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\Billing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\Billing.csproj": {
+    "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\Billing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\Billing.csproj",
+        "projectUniqueName": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\Billing.csproj",
         "projectName": "Billing",
-        "projectPath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\Billing.csproj",
+        "projectPath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\Billing.csproj",
         "packagesPath": "C:\\Users\\PetarPetrov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\obj\\",
+        "outputPath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PetarPetrov\\Downloads\\particular test\\NuGet.Config",
+          "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\NuGet.Config",
           "C:\\Users\\PetarPetrov\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -30,8 +30,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Messages\\Messages.csproj": {
-                "projectPath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Messages\\Messages.csproj"
+              "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Messages\\Messages.csproj": {
+                "projectPath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Messages\\Messages.csproj"
               }
             }
           }
@@ -82,17 +82,17 @@
         }
       }
     },
-    "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Messages\\Messages.csproj": {
+    "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Messages\\Messages.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Messages\\Messages.csproj",
+        "projectUniqueName": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Messages\\Messages.csproj",
         "projectName": "Messages",
-        "projectPath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Messages\\Messages.csproj",
+        "projectPath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Messages\\Messages.csproj",
         "packagesPath": "C:\\Users\\PetarPetrov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Messages\\obj\\",
+        "outputPath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Messages\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PetarPetrov\\Downloads\\particular test\\NuGet.Config",
+          "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\NuGet.Config",
           "C:\\Users\\PetarPetrov\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

@@ -1,0 +1,21 @@
+{
+  "NServiceBus.MessageId": "e04880b7-c76d-4507-bba1-af2500ff3103",
+  "NServiceBus.MessageIntent": "Publish",
+  "NServiceBus.RelatedTo": "2db22203-364e-4b89-8c1e-af2500ff30cc",
+  "NServiceBus.ConversationId": "9815341b-6894-45b4-abe9-af2500ff30cf",
+  "NServiceBus.CorrelationId": "2db22203-364e-4b89-8c1e-af2500ff30cc",
+  "NServiceBus.ReplyToAddress": "Sales",
+  "NServiceBus.OriginatingMachine": "LAPTOP-6SUMS60P",
+  "NServiceBus.OriginatingEndpoint": "Sales",
+  "$.diagnostics.originating.hostid": "7ce78b8f73c8c0a02cf641357a80d7e7",
+  "NServiceBus.ContentType": "text\/xml",
+  "NServiceBus.EnclosedMessageTypes": "Messages.OrderPlaced, Messages, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "NServiceBus.Version": "8.0.0",
+  "NServiceBus.TimeSent": "2022-10-05 15:29:07:447129 Z",
+  "NServiceBus.ProcessingStarted": "2022-10-05 15:29:07:522214 Z",
+  "NServiceBus.ProcessingEnded": "2022-10-05 15:29:07:588479 Z",
+  "$.diagnostics.hostid": "f8971f21c23a3186fd256cfd3b47e848",
+  "$.diagnostics.hostdisplayname": "LAPTOP-6SUMS60P",
+  "NServiceBus.ProcessingMachine": "LAPTOP-6SUMS60P",
+  "NServiceBus.ProcessingEndpoint": "Billing"
+}

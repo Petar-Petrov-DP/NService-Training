@@ -848,3 +848,17 @@ Selected Transport Customization:   ServiceControl.Transports.Learning.LearningT
 2022-10-05 12:16:15.0219|89|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
 2022-10-05 12:16:45.0403|152|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
 2022-10-05 12:16:45.0403|28|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2022-10-05 17:26:49.4269|1|Info|ServiceBus.Management.Infrastructure.Settings.Settings|No settings found for error log queue to import, default name will be used
+2022-10-05 17:26:50.9499|1|Info|Particular.ServiceControl.Bootstrapper|
+-------------------------------------------------------------
+ServiceControl Version:             4.20.2+Branch.release-4.20.Sha.1cc2e83546539c837c2ddcf3db868146535e7fdc
+Audit Retention Period (optional):  
+Error Retention Period:             10.00:00:00
+Ingest Error Messages:              True
+Forwarding Error Messages:          False
+Database Size:                      8.39 MB
+Database Folder Size:               127.13 MB
+ServiceControl Logging Level:       Info
+RavenDB Logging Level:              Warn
+Selected Transport Customization:   ServiceControl.Transports.Learning.LearningTransportCustomization, ServiceControl.Transports.Learning
+-------------------------------------------------------------

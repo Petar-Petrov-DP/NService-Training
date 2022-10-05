@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GQQ5seNiiQPLSgFbY/OeiA9OWsZ2PkR+IWwuThFQl3g23GyIuPK/mXHiXunwpDShNZQDIElttTvS2abzZNSEjA==",
+  "dgSpecHash": "W1vTNOz3RMZU5VfFnkCVwUWDE3e0DLQUzhNlIfHvwlXX5BiYX/NgzUNLEdlpT36WYfnY/+1FL9IVnZkD2xzQwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Shipping\\Shipping.csproj",
+  "projectFilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Shipping\\Shipping.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PetarPetrov\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\PetarPetrov\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

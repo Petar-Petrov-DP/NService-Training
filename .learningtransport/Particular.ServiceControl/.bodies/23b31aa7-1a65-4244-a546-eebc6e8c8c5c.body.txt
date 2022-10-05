@@ -1,0 +1,1 @@
+{"HostId":"7ce78b8f-73c8-c0a0-2cf6-41357a80d7e7","Endpoint":"Sales","StartedAt":"2022-10-05T15:26:52.5792066Z","HostProperties":{"Machine":"LAPTOP-6SUMS60P","ProcessID":"27588","UserName":"PetarPetrov","PathToExecutable":"C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Sales\\bin\\Debug\\net6.0\\Sales.dll"},"HostDisplayName":"LAPTOP-6SUMS60P","Host":"LAPTOP-6SUMS60P"}

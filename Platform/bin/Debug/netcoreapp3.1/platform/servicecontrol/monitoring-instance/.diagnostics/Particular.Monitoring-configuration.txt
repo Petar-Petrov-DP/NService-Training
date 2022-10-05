@@ -41,203 +41,203 @@
     "ErrorsThrownDuringScanning": false,
     "SkippedFiles": [
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Bcl.AsyncInterfaces.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Bcl.AsyncInterfaces.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Configuration.Abstractions.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Configuration.Abstractions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Configuration.Binder.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Configuration.Binder.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Configuration.CommandLine.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Configuration.CommandLine.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Configuration.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Configuration.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Configuration.EnvironmentVariables.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Configuration.EnvironmentVariables.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Configuration.FileExtensions.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Configuration.FileExtensions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Configuration.Json.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Configuration.Json.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Configuration.UserSecrets.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Configuration.UserSecrets.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.DependencyInjection.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.DependencyInjection.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.FileProviders.Abstractions.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.FileProviders.Abstractions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.FileProviders.Physical.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.FileProviders.Physical.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.FileSystemGlobbing.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.FileSystemGlobbing.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Hosting.Abstractions.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Hosting.Abstractions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Hosting.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Hosting.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Hosting.WindowsServices.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Hosting.WindowsServices.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Logging.Abstractions.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Logging.Abstractions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Logging.Configuration.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Logging.Configuration.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Logging.Console.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Logging.Console.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Logging.Debug.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Logging.Debug.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Logging.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Logging.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Logging.EventLog.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Logging.EventLog.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Logging.EventSource.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Logging.EventSource.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Options.ConfigurationExtensions.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Options.ConfigurationExtensions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Options.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Options.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Primitives.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Extensions.Primitives.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Owin.Cors.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Owin.Cors.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Owin.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Owin.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Owin.Host.HttpListener.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Owin.Host.HttpListener.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Owin.Hosting.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Microsoft.Owin.Hosting.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Newtonsoft.Json.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\Newtonsoft.Json.dll",
         "SkipReason": "File was explicitly excluded from scanning."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\NLog.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\NLog.dll",
         "SkipReason": "File was explicitly excluded from scanning."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\System.Buffers.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\System.Buffers.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\System.ComponentModel.Annotations.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\System.ComponentModel.Annotations.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\System.Diagnostics.EventLog.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\System.Diagnostics.EventLog.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\System.Memory.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\System.Memory.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\System.Net.Http.Formatting.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\System.Net.Http.Formatting.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\System.Numerics.Vectors.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\System.Numerics.Vectors.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\System.Runtime.CompilerServices.Unsafe.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\System.Runtime.CompilerServices.Unsafe.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\System.Security.Principal.Windows.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\System.Security.Principal.Windows.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\System.ServiceProcess.ServiceController.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\System.ServiceProcess.ServiceController.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\System.Text.Encodings.Web.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\System.Text.Encodings.Web.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\System.Text.Json.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\System.Text.Json.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\System.Threading.Tasks.Extensions.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\System.Threading.Tasks.Extensions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\System.ValueTuple.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\System.ValueTuple.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\System.Web.Cors.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\System.Web.Cors.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\System.Web.Http.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\System.Web.Http.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\System.Web.Http.Owin.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\System.Web.Http.Owin.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\System.Web.Http.WebHost.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\System.Web.Http.WebHost.dll",
         "SkipReason": "File is a .NET runtime assembly."
       }
     ],
@@ -1057,7 +1057,7 @@
     }
   ],
   "Hosting": {
-    "HostId": "95549195-0734-86c5-ca9e-1a60c356591c",
+    "HostId": "a914f7be-ef3e-2061-3173-79b974ab3ef7",
     "HostDisplayName": "LAPTOP-6SUMS60P",
     "MachineName": "LAPTOP-6SUMS60P",
     "OSPlatform": 2,
@@ -1074,11 +1074,11 @@
       "MajorRevision": 0,
       "MinorRevision": -23536
     },
-    "WorkingSet": 49745920,
+    "WorkingSet": 48427008,
     "SystemPageSize": 4096,
     "HostName": "LAPTOP-6SUMS60P",
     "UserName": "PetarPetrov",
-    "PathToExe": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\ServiceControl.Monitoring.exe"
+    "PathToExe": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\bin\\Debug\\netcoreapp3.1\\platform\\servicecontrol\\monitoring-instance\\ServiceControl.Monitoring.exe"
   },
   "Licensing": {
     "RegisteredTo": null,

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JpZN1Y9zBOj8V87JmP5MHL/G7zQW68V7spgYiW9sTW4zcsCAHXBDkjJKDN7oUuQChJs4NZxC826ejQczm73mPQ==",
+  "dgSpecHash": "o/1XRTO7c5hPO0BwSgdzEt/DCJg38D6vvNdc0+D6bIdB0lCXxSEvK9XlxubwMrtfWX+wfM7t17io+3wv0ftT0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\ClientUI\\ClientUI.csproj",
+  "projectFilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\ClientUI\\ClientUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PetarPetrov\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\PetarPetrov\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

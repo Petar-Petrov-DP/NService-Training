@@ -3776,3 +3776,4 @@ Ensure the following:
    bei System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
    bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
    bei NServiceBus.LearningTransportMessagePump.<ProcessFile>d__10.MoveNext() in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:Zeile 279.
+2022-10-05 17:26:52.9720|1|Warn|NServiceBus.TransportExtensions|A connection string named 'NServiceBus/Transport' was found. Using named connection strings is discouraged. Instead, load the connection string in your code and pass the value to EndpointConfiguration.UseTransport().ConnectionString(connectionString).

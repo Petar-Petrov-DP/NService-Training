@@ -33,119 +33,119 @@
     "ErrorsThrownDuringScanning": false,
     "SkippedFiles": [
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.Abstractions.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.Abstractions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.Binder.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.Binder.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.CommandLine.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.CommandLine.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.EnvironmentVariables.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.EnvironmentVariables.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.FileExtensions.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.FileExtensions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.Json.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.Json.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.UserSecrets.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.UserSecrets.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.DependencyInjection.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.DependencyInjection.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.FileProviders.Abstractions.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.FileProviders.Abstractions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.FileProviders.Physical.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.FileProviders.Physical.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.FileSystemGlobbing.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.FileSystemGlobbing.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Hosting.Abstractions.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Hosting.Abstractions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Hosting.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Hosting.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Logging.Abstractions.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Logging.Abstractions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Logging.Configuration.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Logging.Configuration.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Logging.Console.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Logging.Console.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Logging.Debug.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Logging.Debug.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Logging.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Logging.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Logging.EventLog.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Logging.EventLog.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Logging.EventSource.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Logging.EventSource.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Options.ConfigurationExtensions.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Options.ConfigurationExtensions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Options.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Options.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Primitives.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Primitives.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\System.Diagnostics.EventLog.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\System.Diagnostics.EventLog.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\System.Security.Cryptography.Pkcs.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\System.Security.Cryptography.Pkcs.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\System.Security.Cryptography.Xml.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\System.Security.Cryptography.Xml.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Billing.exe",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Billing.exe",
         "SkipReason": "File is not a .NET assembly."
       },
       {
@@ -157,19 +157,19 @@
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.Abstractions.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.Abstractions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.Binder.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.Binder.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Options.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Options.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
@@ -177,19 +177,19 @@
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.FileProviders.Physical.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.FileProviders.Physical.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.CommandLine.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.CommandLine.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.Json.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.Json.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.EnvironmentVariables.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.EnvironmentVariables.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
@@ -197,11 +197,11 @@
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.FileExtensions.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.FileExtensions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.UserSecrets.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.UserSecrets.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
@@ -221,15 +221,15 @@
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.DependencyInjection.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.DependencyInjection.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.FileProviders.Abstractions.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.FileProviders.Abstractions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
@@ -241,11 +241,11 @@
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.FileSystemGlobbing.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.FileSystemGlobbing.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Hosting.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Hosting.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
@@ -253,11 +253,11 @@
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Logging.Configuration.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Logging.Configuration.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Hosting.Abstractions.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Hosting.Abstractions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
@@ -265,11 +265,11 @@
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Logging.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Logging.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Logging.Abstractions.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Logging.Abstractions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
@@ -277,15 +277,15 @@
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Primitives.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Primitives.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Logging.Console.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Logging.Console.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Logging.Debug.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Logging.Debug.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
@@ -297,11 +297,11 @@
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Logging.EventLog.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Logging.EventLog.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Logging.EventSource.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Logging.EventSource.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
@@ -309,7 +309,7 @@
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Options.ConfigurationExtensions.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Microsoft.Extensions.Options.ConfigurationExtensions.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
@@ -317,11 +317,11 @@
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\System.Security.Cryptography.Xml.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\System.Security.Cryptography.Xml.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\runtimes\\win\\lib\\net6.0\\System.Diagnostics.EventLog.Messages.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\runtimes\\win\\lib\\net6.0\\System.Diagnostics.EventLog.Messages.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
@@ -329,11 +329,11 @@
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\runtimes\\win\\lib\\net6.0\\System.Diagnostics.EventLog.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\runtimes\\win\\lib\\net6.0\\System.Diagnostics.EventLog.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\runtimes\\win\\lib\\net6.0\\System.Security.Cryptography.Pkcs.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\runtimes\\win\\lib\\net6.0\\System.Security.Cryptography.Pkcs.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
@@ -1492,7 +1492,7 @@
     }
   ],
   "Hosting": {
-    "HostId": "c836a55d-a734-14cd-6c36-e69cd01e119a",
+    "HostId": "f8971f21-c23a-3186-fd25-6cfd3b47e848",
     "HostDisplayName": "LAPTOP-6SUMS60P",
     "MachineName": "LAPTOP-6SUMS60P",
     "OSPlatform": 2,
@@ -1509,11 +1509,11 @@
       "MajorRevision": -1,
       "MinorRevision": -1
     },
-    "WorkingSet": 44224512,
+    "WorkingSet": 51703808,
     "SystemPageSize": 4096,
     "HostName": "LAPTOP-6SUMS60P",
     "UserName": "PetarPetrov",
-    "PathToExe": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\bin\\Debug\\net6.0\\Billing.dll"
+    "PathToExe": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\bin\\Debug\\net6.0\\Billing.dll"
   },
   "Licensing": {
     "RegisteredTo": null,

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SQMGAk3jMtxINhB/EYlwoiV0n4dLCy72rEoBAupeBSfQxUmktWfikN0K4kMQ3WJ4AY/+ZEc0aTj/vyehAAS50Q==",
+  "dgSpecHash": "R5Cas/9Zk+p1sYe5PqOHjcMxUydxZZ+Nm6Xscs44bRFtLuv2hbmyvJ6qf+lfMUxtIDh/I4E7Nv15ZoQVv0IePQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Messages\\Messages.csproj",
+  "projectFilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Messages\\Messages.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PetarPetrov\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
     "C:\\Users\\PetarPetrov\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",

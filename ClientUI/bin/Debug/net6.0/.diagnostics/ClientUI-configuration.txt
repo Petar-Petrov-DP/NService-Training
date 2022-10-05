@@ -33,27 +33,27 @@
     "ErrorsThrownDuringScanning": false,
     "SkippedFiles": [
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\ClientUI\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.EnvironmentVariables.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\ClientUI\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.EnvironmentVariables.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\ClientUI\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.UserSecrets.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\ClientUI\\bin\\Debug\\net6.0\\Microsoft.Extensions.Configuration.UserSecrets.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\ClientUI\\bin\\Debug\\net6.0\\Microsoft.Extensions.Hosting.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\ClientUI\\bin\\Debug\\net6.0\\Microsoft.Extensions.Hosting.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\ClientUI\\bin\\Debug\\net6.0\\System.Security.Cryptography.Pkcs.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\ClientUI\\bin\\Debug\\net6.0\\System.Security.Cryptography.Pkcs.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\ClientUI\\bin\\Debug\\net6.0\\System.Security.Cryptography.Xml.dll",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\ClientUI\\bin\\Debug\\net6.0\\System.Security.Cryptography.Xml.dll",
         "SkipReason": "File is a .NET runtime assembly."
       },
       {
-        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\ClientUI\\bin\\Debug\\net6.0\\ClientUI.exe",
+        "FilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\ClientUI\\bin\\Debug\\net6.0\\ClientUI.exe",
         "SkipReason": "File is not a .NET assembly."
       },
       {
@@ -1808,7 +1808,7 @@
     }
   ],
   "Hosting": {
-    "HostId": "c2d9ba5f-2bfd-83d7-f831-0d12168decd2",
+    "HostId": "cb1c25c7-a6cf-fafa-c11c-77f64e9e7712",
     "HostDisplayName": "LAPTOP-6SUMS60P",
     "MachineName": "LAPTOP-6SUMS60P",
     "OSPlatform": 2,
@@ -1825,11 +1825,11 @@
       "MajorRevision": -1,
       "MinorRevision": -1
     },
-    "WorkingSet": 52928512,
+    "WorkingSet": 58306560,
     "SystemPageSize": 4096,
     "HostName": "LAPTOP-6SUMS60P",
     "UserName": "PetarPetrov",
-    "PathToExe": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\ClientUI\\bin\\Debug\\net6.0\\ClientUI.dll"
+    "PathToExe": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\ClientUI\\bin\\Debug\\net6.0\\ClientUI.dll"
   },
   "Licensing": {
     "RegisteredTo": null,
@@ -1851,8 +1851,8 @@
     ],
     "NumberOfMessagesFoundAtStartup": 2,
     "Messages": [
-      "Messages.PlaceOrder",
-      "Messages.OrderPlaced"
+      "Messages.OrderPlaced",
+      "Messages.PlaceOrder"
     ]
   },
   "Receiving": {

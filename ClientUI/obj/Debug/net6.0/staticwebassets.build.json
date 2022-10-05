@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UM/Oc+2Dshlzv1IxmnF7afVvvqbe6iXQtZTUlStVF9M=",
+  "Hash": "kIVyshWUnBnoeMCTEVQi/hhNJwbXTkRs12eMecT96EQ=",
   "Source": "ClientUI",
   "BasePath": "_content/ClientUI",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ClientUI\\wwwroot",
       "Source": "ClientUI",
-      "ContentRoot": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\ClientUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\ClientUI\\wwwroot\\",
       "BasePath": "_content/ClientUI",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\ClientUI\\wwwroot\\Content\\app.js",
+      "Identity": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\ClientUI\\wwwroot\\Content\\app.js",
       "SourceId": "ClientUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\ClientUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\ClientUI\\wwwroot\\",
       "BasePath": "_content/ClientUI",
       "RelativePath": "Content/app.js",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\app.js"
     },
     {
-      "Identity": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\ClientUI\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\ClientUI\\wwwroot\\favicon.ico",
       "SourceId": "ClientUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\ClientUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\ClientUI\\wwwroot\\",
       "BasePath": "_content/ClientUI",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",

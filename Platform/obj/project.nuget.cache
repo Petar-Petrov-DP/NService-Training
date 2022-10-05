@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tzy52OQZHz1NiWltMjOLlpkLSg/3vA+K3BRyIIO4bqDJcW4SfW3VS3R/oq8DqDFS6AFzQj1DsRav55VmAnCyNA==",
+  "dgSpecHash": "tODLGUaQZI2LRamqeTdv/ISs7FbjdEeBSgS03N6t592VZNC0f3UsJql4xQVoiXNhgaEyC2sSxAyEX0b1lAiWCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\Platform.csproj",
+  "projectFilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\Platform.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PetarPetrov\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\2.2.0\\microsoft.aspnetcore.connections.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\PetarPetrov\\.nuget\\packages\\microsoft.aspnetcore.hosting\\2.2.0\\microsoft.aspnetcore.hosting.2.2.0.nupkg.sha512",

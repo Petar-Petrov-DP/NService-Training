@@ -2000,14 +2000,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\Platform.csproj",
+      "projectUniqueName": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\Platform.csproj",
       "projectName": "Platform",
-      "projectPath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\Platform.csproj",
+      "projectPath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\Platform.csproj",
       "packagesPath": "C:\\Users\\PetarPetrov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Platform\\obj\\",
+      "outputPath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Platform\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\PetarPetrov\\Downloads\\particular test\\NuGet.Config",
+        "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\NuGet.Config",
         "C:\\Users\\PetarPetrov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

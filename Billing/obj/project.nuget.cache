@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R/jXgl5QKK2VBWg2l5X/7KTFYeqGAgFXgo6fVjbDRWyepsCR0A+Z4Mynhwmp85D/9XDRlZu0UySd4WD08+MRUQ==",
+  "dgSpecHash": "doGe/Q8Iv8t7Qlz7Mo3ja2nJpvX7nGFfNCGKW6HlneIC42S6uz1oHH7La5zbBNQ2SMpHMMnCZxm9SqarUYuwhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PetarPetrov\\Downloads\\particular test\\Billing\\Billing.csproj",
+  "projectFilePath": "C:\\Users\\PetarPetrov\\Downloads\\NService-Training\\Billing\\Billing.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PetarPetrov\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\PetarPetrov\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
